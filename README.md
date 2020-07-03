@@ -13,4 +13,4 @@ Link: https://github.com/teja0508/Diabetes-Prediction-Deployment
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/diabetes-predictor-web-app.gif)
+ ![GIF](streamlit-app-2020-07-03-09-07-27.webm.mp4)
