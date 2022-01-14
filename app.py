@@ -3,6 +3,7 @@ from flask import Flask, render_template, request
 import pickle
 import numpy as np
 import pandas as pd
+import itertools
 # Load the Random Forest CLassifier model
 filename = 'diabetes-prediction-rfc-model.pkl'
 classifier = pickle.load(open(filename, 'rb'))
